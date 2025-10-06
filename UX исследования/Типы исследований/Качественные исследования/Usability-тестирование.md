@@ -7,9 +7,8 @@
 Как говорил классик egorov050: **Юзабилити — это тест на понятность и доступность.**
 
 # Виды юзабилити-тестирования
-<img width="10" height="8" alt="image" src="https://github.com/user-attachments/assets/d23755fe-6bc2-47a3-988a-0e1b7ebcdd6c" />
+<img width="357" height="300" alt="Снимок экрана 2025-10-06 в 14 45 00" src="https://github.com/user-attachments/assets/a0652af2-2920-4fed-ad82-8991e20a25ae" />
 
-**---**
 
 # Основные этапы
 
